@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-#Creating a script that uses a for loop that displays "Best School" 10 times
+#Creating a script that uses a for loop
 
 for _ in {1..10}
 
 do
 
-	echo "Best School"
+		echo "Best School"
 
-done
+	done
